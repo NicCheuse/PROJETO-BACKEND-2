@@ -9,4 +9,4 @@ function DanoJogador(arma, dano) {
     }
 }
 
-export.DanoJogador = DanoJogador;
+exports.DanoJogador = DanoJogador;
